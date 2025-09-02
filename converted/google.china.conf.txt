@@ -1,142 +1,142 @@
-[/265.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/2mdn-cn.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/2mdn.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/admob-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/adservice.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/app-analytics-services.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/app-measurement-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/app-measurement.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/apps5.oingo.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/avail.googleflights.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/beacons.gcp.gvt2.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/beacons.gvt2.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/beacons2.gvt2.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/beacons3.gvt2.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/c.admob.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/c.android.clients.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/cache-management-prod.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/cache.pack.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/checkin.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/clickserve.cc-dt.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/clickserve.dartsearch.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/clickserver.googleads.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/clientservices.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/cn.widevine.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/cnappinstall.googleadapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/connectivitycheck.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/content.googleadapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/crashlyticsreports-pa.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/crl.pki.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/csi.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/dartsearch-cn.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/dg-meta.video.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/dl.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/dl.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/doubleclick-cn.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/doubleclick.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/download.mlcc.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/download.qatp1.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/download.tensorflow.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/emmapplecodevice.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/firebase-settings.crashlytics.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/fontfiles.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/fonts.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/fonts.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/g0.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/g1.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/g2.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/g3.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/go.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/gonglchuangl.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/gongyichuangyi.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/google-analytics-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/google-analytics.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleadservices-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleadservices.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleanalytics.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleapis-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleapps-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleflights-cn.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleoptimize-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googleoptimize.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googlesyndication-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googlesyndication.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googletagmanager-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googletagmanager.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googletagservices-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googletagservices.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googletraveladservices-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googletraveladservices.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/googlevads-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/gstatic-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/gstaticadssl.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/gtm.oasisfeng.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/gvt1-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/gvt2-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/imasdk.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/l2-uberproxy.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/logger-dev.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/logger.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/login.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/monitoring.qpdp1.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/ocsp.pki.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/pagead-googlehosted.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/performanceparameters.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/pki-goog.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/prod-controlbe.floonet.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/prod-databe.floonet.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/prod.databe.floonet.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/proxyconfig.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/qagpublic.qatp1.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/qgadmin.qcpp1.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/qiao-cn.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/qpx.googleflights.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/qualysapi.qatp1.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/qualysguard.qpdp1.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/r.cert.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/rapture-prod.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/recaptcha-cn.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/recaptcha.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.bdn.dev/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.c.chat.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.c.mail.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.c.pack.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.c.play.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.c.youtubeeducation.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.gcpcdn.gvt1.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.gvt1.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.offline-maps.gvt1.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.snap.gvt1.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/redirector.xn--ngstr-lra8j.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/safebrowsing-cache.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/safebrowsing.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/scanservice1.qcpp1.net/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/service.urchin.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/ssl-google-analytics.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/ssl.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/sslredirect.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/staging-controlbe.floonet.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/staging-databe.floonet.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/staging.databe.floonet.goog/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/streaming-uberproxy-rotation.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/streaming-uberproxy.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/sup-ssh-relay.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/sup-ssh-relay2.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/sup.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/sup.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/tac.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/test.gbugs-qa.chromium.org/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/tools.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/tools.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/uberproxy-debug4.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/uberproxy.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/uberproxy6.corp.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/update.crashlytics.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/update.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/wear.googleapis.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/www-google-analytics.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/www-googletagmanager.l.google.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/www.destinationurl.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/www.gstatic.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/www.pxcc.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
-[/xn--flw351e.com/]https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/265.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/2mdn-cn.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/2mdn.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/admob-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/adservice.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/app-analytics-services.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/app-measurement-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/app-measurement.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/apps5.oingo.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/avail.googleflights.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/beacons.gcp.gvt2.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/beacons.gvt2.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/beacons2.gvt2.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/beacons3.gvt2.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/c.admob.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/c.android.clients.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/cache-management-prod.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/cache.pack.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/checkin.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/clickserve.cc-dt.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/clickserve.dartsearch.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/clickserver.googleads.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/clientservices.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/cn.widevine.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/cnappinstall.googleadapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/connectivitycheck.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/content.googleadapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/crashlyticsreports-pa.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/crl.pki.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/csi.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/dartsearch-cn.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/dg-meta.video.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/dl.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/dl.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/doubleclick-cn.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/doubleclick.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/download.mlcc.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/download.qatp1.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/download.tensorflow.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/emmapplecodevice.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/firebase-settings.crashlytics.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/fontfiles.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/fonts.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/fonts.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/g0.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/g1.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/g2.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/g3.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/go.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/gonglchuangl.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/gongyichuangyi.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/google-analytics-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/google-analytics.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleadservices-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleadservices.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleanalytics.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleapis-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleapps-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleflights-cn.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleoptimize-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googleoptimize.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googlesyndication-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googlesyndication.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googletagmanager-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googletagmanager.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googletagservices-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googletagservices.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googletraveladservices-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googletraveladservices.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/googlevads-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/gstatic-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/gstaticadssl.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/gtm.oasisfeng.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/gvt1-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/gvt2-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/imasdk.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/l2-uberproxy.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/logger-dev.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/logger.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/login.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/monitoring.qpdp1.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/ocsp.pki.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/pagead-googlehosted.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/performanceparameters.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/pki-goog.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/prod-controlbe.floonet.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/prod-databe.floonet.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/prod.databe.floonet.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/proxyconfig.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/qagpublic.qatp1.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/qgadmin.qcpp1.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/qiao-cn.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/qpx.googleflights.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/qualysapi.qatp1.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/qualysguard.qpdp1.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/r.cert.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/rapture-prod.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/recaptcha-cn.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/recaptcha.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.bdn.dev/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.c.chat.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.c.mail.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.c.pack.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.c.play.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.c.youtubeeducation.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.gcpcdn.gvt1.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.gvt1.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.offline-maps.gvt1.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.snap.gvt1.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/redirector.xn--ngstr-lra8j.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/safebrowsing-cache.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/safebrowsing.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/scanservice1.qcpp1.net/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/service.urchin.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/ssl-google-analytics.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/ssl.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/sslredirect.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/staging-controlbe.floonet.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/staging-databe.floonet.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/staging.databe.floonet.goog/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/streaming-uberproxy-rotation.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/streaming-uberproxy.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/sup-ssh-relay.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/sup-ssh-relay2.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/sup.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/sup.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/tac.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/test.gbugs-qa.chromium.org/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/tools.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/tools.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/uberproxy-debug4.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/uberproxy.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/uberproxy6.corp.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/update.crashlytics.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/update.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/wear.googleapis.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/www-google-analytics.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/www-googletagmanager.l.google.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/www.destinationurl.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/www.gstatic.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/www.pxcc.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
+[/xn--flw351e.com/]https://doh.360.cn/dns-query https://dns.pub/dns-query https://223.5.5.5/dns-query
