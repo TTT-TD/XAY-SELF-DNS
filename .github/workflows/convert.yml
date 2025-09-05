@@ -2,7 +2,7 @@ name: Convert Conf Files and Push to Repo
 
 on:
   schedule:
-    - cron: "0 1 * * *" # every day
+    - cron: "30 16 * * *" # every day
   workflow_dispatch:
 
 jobs:
