@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]https://doh.pub/dns-query https://8.8.8.8/dns-query
 [/c.admob.com/]https://doh.pub/dns-query https://8.8.8.8/dns-query
 [/c.android.clients.google.com/]https://doh.pub/dns-query https://8.8.8.8/dns-query
+[/c.pki.goog/]https://doh.pub/dns-query https://8.8.8.8/dns-query
 [/cache-management-prod.google.com/]https://doh.pub/dns-query https://8.8.8.8/dns-query
 [/cache.pack.google.com/]https://doh.pub/dns-query https://8.8.8.8/dns-query
 [/checkin.gstatic.com/]https://doh.pub/dns-query https://8.8.8.8/dns-query
