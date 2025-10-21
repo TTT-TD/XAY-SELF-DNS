@@ -7,7 +7,7 @@ https://1.1.1.1/dns-query
 [/cloudflare.com/]https://1.1.1.1/dns-query
 [/nextdns.io/]https://dns.nextdns.io/5b73e4/A2-T14-JP
 [/sb/sh/]185.222.222.222
-[/cn/epaid.org/onwaf.com/vmess.ws/waf.sb/edge-cluster-hk-pre.com/edge-cluster-hk-std.com/edge-cluster-hk-inf.com/edge-cluster-jp-pre.com/edge-cluster-jp-std.com/edge-cluster-jp-inf.com/edge-cluster-sg-pre.com/edge-cluster-sg-std.com/edge-cluster-sg-inf.com/]https://doh.pub/dns-query https://8.8.8.8/dns-query
+[/cn/epaid.org/onwaf.com/vmess.ws/waf.sb/edge-cluster-hk-pre.com/edge-cluster-hk-std.com/edge-cluster-hk-inf.com/edge-cluster-jp-pre.com/edge-cluster-jp-std.com/edge-cluster-jp-inf.com/edge-cluster-sg-pre.com/edge-cluster-sg-std.com/edge-cluster-sg-inf.com/]https://doh.360.cn/dns-query https://8.8.8.8/dns-query
 [/0.zone/]https://doh.360.cn/dns-query https://223.5.5.5/dns-query
 [/00.net/]https://doh.360.cn/dns-query https://223.5.5.5/dns-query
 [/000.link/]https://doh.360.cn/dns-query https://223.5.5.5/dns-query
