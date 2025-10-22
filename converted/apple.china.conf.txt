@@ -1,167 +1,167 @@
-[/a1.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/a2.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/a3.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/a4.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/a5.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/adcdownload.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/adcdownload.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/amp-api-updates.apps.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/amp-api.media.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/app-site-association.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/appldnld.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/appldnld.g.aaplimg.com/]tls://223.5.5.5 tls://8.8.8.8
-[/appleid.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/apps.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/apps.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/bag-cdn.itunes-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn-cn1.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn-cn2.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn-cn3.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn-cn4.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn1.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn2.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn3.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdn4.apple-mapkit.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cds-cdn.v.aaplimg.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cds.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/cds.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cdsassets.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/certs.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cl1-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/cl1.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cl2-cn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cl2.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cl3-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/cl3.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cl4-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/cl4-cn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cl4.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cl5-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/cl5.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/clientflow.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/clientflow.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cn-smp-paymentservices.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/configuration.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/configuration.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/crl.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cstat.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/cstat.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/dd-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/dejavu.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/devimages-cdn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/devstreaming-cdn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/download.developer.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/experiments.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gs-loc-cn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gs-loc.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gsp10-ssl-cn.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gsp12-cn.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gsp13-cn.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/gsp4-cn.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gsp5-cn.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gsp85-cn-ssl.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe19-2-cn-ssl.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe19-cn-ssl.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe19-cn.ls-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe19-cn.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe21-ssl.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe35-ssl.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/gspe79-cn-ssl.ls.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/guzzoni-apple-com.v.aaplimg.com/]tls://223.5.5.5 tls://8.8.8.8
-[/guzzoni.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/guzzoni.smoot.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/iadsdk.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/icloud-cdn.icloud.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/icloud.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/init-kt.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/init-p01md-lb.push-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/init-p01md.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/init-p01st-lb.push-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/init-p01st.push.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/init-s01st-lb.push-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/init-s01st.push.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/init.ess.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/iosapps.itunes.g.aaplimg.com/]tls://223.5.5.5 tls://8.8.8.8
-[/ipcdn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/iphone-ld.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/iphone-ld.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/is1-ssl.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is1.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is2-ssl.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is2.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is3-ssl.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is3.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is4-ssl.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is4.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is5-ssl.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/is5.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/itunes-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/itunes.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/itunesconnect.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/mesu-cdn.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/mesu-china.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/mesu.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/ml.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/music.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/ocsp-lb.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/ocsp.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/ocsp2-lb.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/ocsp2.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/oscdn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/oscdn.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/osxapps.itunes.g.aaplimg.com/]tls://223.5.5.5 tls://8.8.8.8
-[/pancake.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/pancake.cdn-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/pba0.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/probe.siri.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/prod-support.apple-support.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/publicassets.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/reserve-prime.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/s.mzstatic.com/]tls://223.5.5.5 tls://8.8.8.8
-[/seed-sequoia.siri.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/seed-swallow.siri.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/seed.siri.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/sequoia.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/sh-pod2-smp-device.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/shazam-insights.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/smp-device-content.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/static.gc.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/stocks-sparkline-lb.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/stocks-sparkline.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/store.apple.com.edgekey.net/]tls://223.5.5.5 tls://8.8.8.8
-[/store.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/store.storeimages.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/store.storeimages.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/support-china.apple-support.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/support.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/swallow-apple-com.v.aaplimg.com/]tls://223.5.5.5 tls://8.8.8.8
-[/swallow.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/swcatalog-cdn.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/swcatalog.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/swcdn.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/swcdn.g.aaplimg.com/]tls://223.5.5.5 tls://8.8.8.8
-[/swdist.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/swdist.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/swscan-cdn.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/swscan.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/sylvan.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/tj-pod1-smp-device.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/updates-http.cdn-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/updates-http.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/updates.cdn-apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/valid.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/valid.origin-apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/weather-data.apple.com.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/weather-data.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/weather-map.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/weather-map2.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/weatherkit.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5 tls://8.8.8.8
-[/www.apple.com/]tls://223.5.5.5 tls://8.8.8.8
-[/xp.apple.com/]tls://223.5.5.5 tls://8.8.8.8
+[/a1.mzstatic.com/]tls://223.5.5.5
+[/a2.mzstatic.com/]tls://223.5.5.5
+[/a3.mzstatic.com/]tls://223.5.5.5
+[/a4.mzstatic.com/]tls://223.5.5.5
+[/a5.mzstatic.com/]tls://223.5.5.5
+[/adcdownload.apple.com.akadns.net/]tls://223.5.5.5
+[/adcdownload.apple.com/]tls://223.5.5.5
+[/amp-api-updates.apps.apple.com/]tls://223.5.5.5
+[/amp-api.media.apple.com/]tls://223.5.5.5
+[/app-site-association.cdn-apple.com/]tls://223.5.5.5
+[/appldnld.apple.com/]tls://223.5.5.5
+[/appldnld.g.aaplimg.com/]tls://223.5.5.5
+[/appleid.cdn-apple.com/]tls://223.5.5.5
+[/apps.apple.com/]tls://223.5.5.5
+[/apps.mzstatic.com/]tls://223.5.5.5
+[/bag-cdn.itunes-apple.com.akadns.net/]tls://223.5.5.5
+[/cdn-cn1.apple-mapkit.com/]tls://223.5.5.5
+[/cdn-cn2.apple-mapkit.com/]tls://223.5.5.5
+[/cdn-cn3.apple-mapkit.com/]tls://223.5.5.5
+[/cdn-cn4.apple-mapkit.com/]tls://223.5.5.5
+[/cdn.apple-mapkit.com/]tls://223.5.5.5
+[/cdn1.apple-mapkit.com/]tls://223.5.5.5
+[/cdn2.apple-mapkit.com/]tls://223.5.5.5
+[/cdn3.apple-mapkit.com/]tls://223.5.5.5
+[/cdn4.apple-mapkit.com/]tls://223.5.5.5
+[/cds-cdn.v.aaplimg.com/]tls://223.5.5.5
+[/cds.apple.com.akadns.net/]tls://223.5.5.5
+[/cds.apple.com/]tls://223.5.5.5
+[/cdsassets.apple.com/]tls://223.5.5.5
+[/certs.apple.com/]tls://223.5.5.5
+[/cl1-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/cl1.apple.com/]tls://223.5.5.5
+[/cl2-cn.apple.com/]tls://223.5.5.5
+[/cl2.apple.com/]tls://223.5.5.5
+[/cl3-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/cl3.apple.com/]tls://223.5.5.5
+[/cl4-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/cl4-cn.apple.com/]tls://223.5.5.5
+[/cl4.apple.com/]tls://223.5.5.5
+[/cl5-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/cl5.apple.com/]tls://223.5.5.5
+[/clientflow.apple.com.akadns.net/]tls://223.5.5.5
+[/clientflow.apple.com/]tls://223.5.5.5
+[/cn-smp-paymentservices.apple.com/]tls://223.5.5.5
+[/configuration.apple.com.akadns.net/]tls://223.5.5.5
+[/configuration.apple.com/]tls://223.5.5.5
+[/crl.apple.com/]tls://223.5.5.5
+[/cstat.apple.com/]tls://223.5.5.5
+[/cstat.cdn-apple.com/]tls://223.5.5.5
+[/dd-cdn.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/dejavu.apple.com/]tls://223.5.5.5
+[/devimages-cdn.apple.com/]tls://223.5.5.5
+[/devstreaming-cdn.apple.com/]tls://223.5.5.5
+[/download.developer.apple.com/]tls://223.5.5.5
+[/experiments.apple.com/]tls://223.5.5.5
+[/gs-loc-cn.apple.com/]tls://223.5.5.5
+[/gs-loc.apple.com/]tls://223.5.5.5
+[/gsp10-ssl-cn.ls.apple.com/]tls://223.5.5.5
+[/gsp12-cn.ls.apple.com/]tls://223.5.5.5
+[/gsp13-cn.ls.apple.com/]tls://223.5.5.5
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5
+[/gsp4-cn.ls.apple.com/]tls://223.5.5.5
+[/gsp5-cn.ls.apple.com/]tls://223.5.5.5
+[/gsp85-cn-ssl.ls.apple.com/]tls://223.5.5.5
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://223.5.5.5
+[/gspe19-2-cn-ssl.ls.apple.com/]tls://223.5.5.5
+[/gspe19-cn-ssl.ls.apple.com/]tls://223.5.5.5
+[/gspe19-cn.ls-apple.com.akadns.net/]tls://223.5.5.5
+[/gspe19-cn.ls.apple.com/]tls://223.5.5.5
+[/gspe21-ssl.ls.apple.com/]tls://223.5.5.5
+[/gspe35-ssl.ls.apple.com/]tls://223.5.5.5
+[/gspe79-cn-ssl.ls.apple.com/]tls://223.5.5.5
+[/guzzoni-apple-com.v.aaplimg.com/]tls://223.5.5.5
+[/guzzoni.apple.com/]tls://223.5.5.5
+[/guzzoni.smoot.apple.com/]tls://223.5.5.5
+[/iadsdk.apple.com/]tls://223.5.5.5
+[/icloud-cdn.icloud.com.akadns.net/]tls://223.5.5.5
+[/icloud.cdn-apple.com/]tls://223.5.5.5
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5
+[/init-kt.apple.com/]tls://223.5.5.5
+[/init-p01md-lb.push-apple.com.akadns.net/]tls://223.5.5.5
+[/init-p01md.apple.com/]tls://223.5.5.5
+[/init-p01st-lb.push-apple.com.akadns.net/]tls://223.5.5.5
+[/init-p01st.push.apple.com/]tls://223.5.5.5
+[/init-s01st-lb.push-apple.com.akadns.net/]tls://223.5.5.5
+[/init-s01st.push.apple.com/]tls://223.5.5.5
+[/init.ess.apple.com/]tls://223.5.5.5
+[/iosapps.itunes.g.aaplimg.com/]tls://223.5.5.5
+[/ipcdn.apple.com/]tls://223.5.5.5
+[/iphone-ld.apple.com/]tls://223.5.5.5
+[/iphone-ld.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tls://223.5.5.5
+[/is1-ssl.mzstatic.com/]tls://223.5.5.5
+[/is1.mzstatic.com/]tls://223.5.5.5
+[/is2-ssl.mzstatic.com/]tls://223.5.5.5
+[/is2.mzstatic.com/]tls://223.5.5.5
+[/is3-ssl.mzstatic.com/]tls://223.5.5.5
+[/is3.mzstatic.com/]tls://223.5.5.5
+[/is4-ssl.mzstatic.com/]tls://223.5.5.5
+[/is4.mzstatic.com/]tls://223.5.5.5
+[/is5-ssl.mzstatic.com/]tls://223.5.5.5
+[/is5.mzstatic.com/]tls://223.5.5.5
+[/itunes-apple.com.akadns.net/]tls://223.5.5.5
+[/itunes.apple.com/]tls://223.5.5.5
+[/itunesconnect.apple.com/]tls://223.5.5.5
+[/mesu-cdn.apple.com.akadns.net/]tls://223.5.5.5
+[/mesu-china.apple.com.akadns.net/]tls://223.5.5.5
+[/mesu.apple.com/]tls://223.5.5.5
+[/ml.cdn-apple.com/]tls://223.5.5.5
+[/music.apple.com/]tls://223.5.5.5
+[/ocsp-lb.apple.com.akadns.net/]tls://223.5.5.5
+[/ocsp.apple.com/]tls://223.5.5.5
+[/ocsp2-lb.apple.com.akadns.net/]tls://223.5.5.5
+[/ocsp2.apple.com/]tls://223.5.5.5
+[/oscdn.apple.com/]tls://223.5.5.5
+[/oscdn.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/osxapps.itunes.g.aaplimg.com/]tls://223.5.5.5
+[/pancake.apple.com/]tls://223.5.5.5
+[/pancake.cdn-apple.com.akadns.net/]tls://223.5.5.5
+[/pba0.apple.com/]tls://223.5.5.5
+[/probe.siri.apple.com/]tls://223.5.5.5
+[/prod-support.apple-support.akadns.net/]tls://223.5.5.5
+[/publicassets.cdn-apple.com/]tls://223.5.5.5
+[/reserve-prime.apple.com/]tls://223.5.5.5
+[/s.mzstatic.com/]tls://223.5.5.5
+[/seed-sequoia.siri.apple.com/]tls://223.5.5.5
+[/seed-swallow.siri.apple.com/]tls://223.5.5.5
+[/seed.siri.apple.com/]tls://223.5.5.5
+[/sequoia.apple.com/]tls://223.5.5.5
+[/sh-pod2-smp-device.apple.com/]tls://223.5.5.5
+[/shazam-insights.cdn-apple.com/]tls://223.5.5.5
+[/smp-device-content.apple.com/]tls://223.5.5.5
+[/static.gc.apple.com/]tls://223.5.5.5
+[/stocks-sparkline-lb.apple.com.akadns.net/]tls://223.5.5.5
+[/stocks-sparkline.apple.com/]tls://223.5.5.5
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5
+[/store.apple.com.edgekey.net/]tls://223.5.5.5
+[/store.apple.com/]tls://223.5.5.5
+[/store.storeimages.apple.com.akadns.net/]tls://223.5.5.5
+[/store.storeimages.cdn-apple.com/]tls://223.5.5.5
+[/support-china.apple-support.akadns.net/]tls://223.5.5.5
+[/support.apple.com/]tls://223.5.5.5
+[/swallow-apple-com.v.aaplimg.com/]tls://223.5.5.5
+[/swallow.apple.com/]tls://223.5.5.5
+[/swcatalog-cdn.apple.com.akadns.net/]tls://223.5.5.5
+[/swcatalog.apple.com/]tls://223.5.5.5
+[/swcdn.apple.com/]tls://223.5.5.5
+[/swcdn.g.aaplimg.com/]tls://223.5.5.5
+[/swdist.apple.com.akadns.net/]tls://223.5.5.5
+[/swdist.apple.com/]tls://223.5.5.5
+[/swscan-cdn.apple.com.akadns.net/]tls://223.5.5.5
+[/swscan.apple.com/]tls://223.5.5.5
+[/sylvan.apple.com/]tls://223.5.5.5
+[/tj-pod1-smp-device.apple.com/]tls://223.5.5.5
+[/updates-http.cdn-apple.com.akadns.net/]tls://223.5.5.5
+[/updates-http.cdn-apple.com/]tls://223.5.5.5
+[/updates.cdn-apple.com/]tls://223.5.5.5
+[/valid.apple.com/]tls://223.5.5.5
+[/valid.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/weather-data.apple.com.akadns.net/]tls://223.5.5.5
+[/weather-data.apple.com/]tls://223.5.5.5
+[/weather-map.apple.com/]tls://223.5.5.5
+[/weather-map2.apple.com/]tls://223.5.5.5
+[/weatherkit.apple.com/]tls://223.5.5.5
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5
+[/www.apple.com/]tls://223.5.5.5
+[/xp.apple.com/]tls://223.5.5.5
