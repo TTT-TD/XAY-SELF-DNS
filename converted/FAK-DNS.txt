@@ -1,8 +1,11 @@
+https://dns.adguard-dns.com/dns-query
 https://dns.goole/dns-query
 https://dns.cloudflare.com/dns-query
 https://doh.dns.sb/dns-query
 https://ordns.he.net/dns-query
 https://dns.nextdns.io/41e12c/xay-gmm
+https://basic.rethinkdns.com/
+https://dns.rabbitdns.org/dns-query
 https://doh.cleanbrowsing.org/doh/adult-filter/
 https://freedns.controld.com/p0
 https://doh.sandbox.opendns.com/dns-query
