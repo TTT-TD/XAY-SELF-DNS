@@ -1,10 +1,14 @@
+https://dns.goole/dns-query
+https://dns.cloudflare.com/dns-query
+https://doh.dns.sb/dns-query
+https://ordns.he.net/dns-query
 https://dns.nextdns.io/41e12c/xay-gmm
+https://doh.cleanbrowsing.org/doh/adult-filter/
+https://freedns.controld.com/p0
 https://doh.sandbox.opendns.com/dns-query
-https://8.8.8.8/dns-query
 tls://dns11.quad9.net
 https://45.11.45.11/dns-query
-https://1.1.1.1/dns-query
-[/cloudflare.com/]https://1.1.1.1/dns-query
+[/cloudflare.com/]https://dns.cloudflare.com/dns-query
 [/nextdns.io/]https://dns.nextdns.io/41e12c/xay-gmm
 [/sb/sh/]185.222.222.222
 [/epaid.org/onwaf.com/vmess.ws/waf.sb/edge-cluster-hk-pre.com/edge-cluster-hk-std.com/edge-cluster-hk-inf.com/edge-cluster-jp-pre.com/edge-cluster-jp-std.com/edge-cluster-jp-inf.com/edge-cluster-sg-pre.com/edge-cluster-sg-std.com/edge-cluster-sg-inf.com/]https://8.8.8.8/dns-query
